@@ -6,5 +6,5 @@ void jr_print_memory(char array[][]){
 }
 
 int main(){
-    char test[3][16] = {{a,b,c},{a,b,c},{a,b,c},{a,b,c},{a,b,c},{a,b,c},{a,\r,c},{a,b,c},{a,b,c},{a,b,c},{a,b,c},{a,b,c},{a,b,c},{a,b,c},{a,b,c},{a,b,c},{a,b,c}};
+    
 }
